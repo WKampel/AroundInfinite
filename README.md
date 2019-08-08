@@ -8,4 +8,4 @@ An Android application in which the goal is to orbit around the center of the sc
 
 ## Authors
 
-* **Wyatt Kampel** - Full project* - [WKampel](https://github.com/WKampel)
+* **Wyatt Kampel** - *Full project* - [WKampel](https://github.com/WKampel)
