@@ -1,12 +1,10 @@
 # Around Infinite
 
-One Paragraph of project description goes here
+An Android application in which the goal is to orbit around the center of the screen whilst avoiding obstacles.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Libgdx](https://libgdx.badlogicgames.com/) - The game framework used
 
 ## Authors
 
